@@ -2,17 +2,17 @@
 
 😁**Play Rock-Paper-Scissor game and enjoy.**
 
-![1](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/97d6742f-c2ae-4c97-9d91-751737285207)
+![1](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/efc6c536-5a37-4150-b125-56ffbd6f44d9)
 
-![2](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/11d55abb-e6af-4045-bf71-eb4fc6404d10)
+![2](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/ae2f086d-2b4d-4303-a416-1039e8b256e5)
 
-![3](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/26034ab3-1144-4c56-88a6-c0cfadea3ff3)
+![3](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/cd5d302b-3597-4542-ba79-3685c70e379b)
 
-![4](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/f672e0ec-8acb-4154-b03e-191e0c7aa218)
+![4](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/d7a24cd9-53aa-4648-8933-4022209c1d06)
 
-![5](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/931c3b37-9c72-476b-a054-6666d0704805)
+![5](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/67dd7846-08dc-4733-89a4-f10f58302b70)
 
-![6](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/2d51e219-b3a7-4aad-9d9a-4b0972eab758)
+![6](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/36cf2fe1-1899-4f99-990d-b0d8f75e856b)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Rock-Paper-Scissor-Game/)
 
