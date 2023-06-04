@@ -20,7 +20,7 @@
 
 📅- Created - 2023-03-28
 
-⌨- Technologies Used - Html , css , JavaScript
+⌨- Technologies Used - Html , Scss , Css , JavaScript
 
 - Hooks Used : useState 
 
