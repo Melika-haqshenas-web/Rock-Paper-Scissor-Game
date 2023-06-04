@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+body > h1 {
+  color: white;
+  margin: 30px auto;
+}
+body > h2 {
+  color: white;
+  font-size: 50px;
+}
+body > div:nth-of-type(1) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+body > div:nth-of-type(1) > section {
+  font-size: 50px;
+  margin: 0 20px;
+  cursor: pointer;
+}
+body > button {
+  width: 300px;
+  height: 50px;
+  font-size: 30px;
+  cursor: pointer;
+}/*# sourceMappingURL=master.css.map */

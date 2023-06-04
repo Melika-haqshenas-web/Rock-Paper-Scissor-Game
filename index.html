@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock & Paper & Scissor</title>
+    <link rel="stylesheet" href="asset/style/master.css">
+</head>
+<body>
+    <h1>Computer Choice:</h1>
+    <h2 id="Comput"></h2>
+    <h1>Your Choice:</h1>
+    <h2 id="you"></h2>
+    <h1>Result:</h1>
+    <h2 id="res"></h2>
+    <div>
+        <section onclick="_click(this)">✊🏼</section>
+        <section onclick="_click(this)">✋🏼</section>
+        <section onclick="_click(this)">✌🏼</section>
+    </div>
+
+    <button onclick="computchoice()">Computer turn</button>
+</body>
+<script>
+    alert("First You Turn...")
+    // Computer Turn
+    const comput = ["✊🏼", "✋🏼", "✌🏼"];
+    let x = ''
+    function computchoice(){
+        x = comput[Math.floor(Math.random() * comput.length)]
+        document.getElementById('Comput').innerHTML = x
+        _result()
+    }
+    // YOu Turn
+    let _choice = ''
+    let y = document.getElementById('res')
+    function _click(self){
+        _choice = self.innerText
+        document.getElementById('you').innerText = _choice
+
+    }
+    function _result(){
+        if(x == _choice){
+            y.innerText = 'Be Equal!'
+        }else if(x == '✊🏼' && _choice == '✋🏼'){
+            y.innerText = 'You Win!'
+        }else if(x == '✊🏼' && _choice == '✌🏼'){
+            y.innerText = 'You Lose!'
+        }else if(x == '✋🏼' && _choice == '✊🏼'){
+            y.innerText = 'You Lose!'
+        }else if(x == '✋🏼' && _choice == '✌🏼'){
+            y.innerText = 'You Win!'
+        }else if(x == '✌🏼' && _choice == '✋🏼'){
+            y.innerText = 'You Lose!'
+        }else if(x == '✌🏼' && _choice == '✊🏼'){
+            y.innerText = 'You Win!'
+        }
+        if(y.innerText == 'You Win!'){
+            y.style.color = "green"
+        }else if( y.innerText == 'You Lose!'){
+            y.style.color = "red"
+        }else{
+            y.style.color = "white"
+        }
+    }
+
+</script>
+</html>
